@@ -625,7 +625,7 @@
 			<key>DisableIoMapper</key>
 			<true/>
 			<key>DisableRtcChecksum</key>
-			<false/>
+			<true/>
 			<key>DummyPowerManagement</key>
 			<false/>
 			<key>ExternalDiskIcons</key>
@@ -758,7 +758,7 @@
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
 				<key>rtc-blacklist</key>
-				<data></data>
+				<data>WFk=</data>
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
@@ -771,7 +771,7 @@
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
-				<data>ZW4tVVM6MA==</data>
+				<data>cnUtUlU6MjUy</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -957,7 +957,7 @@
 			<key>AppleKeyMap</key>
 			<false/>
 			<key>AppleRtcRam</key>
-			<false/>
+			<true/>
 			<key>AppleSmcIo</key>
 			<false/>
 			<key>AppleUserInterfaceTheme</key>
