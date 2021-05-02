@@ -814,7 +814,7 @@
 			<key>LauncherPath</key>
 			<string>Default</string>
 			<key>PickerVariant</key>
-			<string>Modern</string>
+			<string>Auto</string>
 			<key>PickerAttributes</key>
 			<integer>17</integer>
 			<key>PickerAudioAssist</key>
