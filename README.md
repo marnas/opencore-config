@@ -19,7 +19,7 @@ Name | Model
 ------------ | -------------
 **Mobo**  | Asus ROG STRIX Z390-I GAMING
 **CPU** | Intel Core i9-9900k 9th Gen 8 Core CPU 3.6 GHz
-**GPU**  | Radeon RX 570 4 GB
+**GPU**  | Radeon RX 5500 XT 8 GB
 **WiFi**  | BCM94360NG NGFF M.2 802.11AC
 **SSD** | 1TB Samsung 970 EVO PLUS Internal M.2
 **RAM** | Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4 3200 MHz C16 XMP PC4-25600
