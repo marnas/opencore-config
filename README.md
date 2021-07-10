@@ -2,6 +2,8 @@
 Personal configuration files for [OpenCore](https://github.com/acidanthera/OpenCorePkg).
 Current release **0.7.1**
 
+![About](./About.png)
+
 ## Kexts
 
 Version | Name
