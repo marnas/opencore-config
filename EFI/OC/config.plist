@@ -989,8 +989,6 @@
 			<dict>
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
-				<key>SystemAudioVolumeDB</key>
-				<data>4g==</data>
 				<key>boot-args</key>
 				<string>-v keepsyms=1 debug=0x100 alcid=1 agdpmod=pikera</string>
 				<key>run-efi-updater</key>
