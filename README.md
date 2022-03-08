@@ -1,6 +1,6 @@
 # Opencore config
 Personal configuration files for [OpenCore](https://github.com/acidanthera/OpenCorePkg).
-Current release **0.7.8**
+Current release **0.7.9**
 
 ![About](./About.png)
 
