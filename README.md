@@ -9,11 +9,11 @@ Current release **0.7.9**
 Version | Name
 ------------ | -------------
 2.1.4 | [AirportBrcmFixup.kext](https://github.com/acidanthera/AirportBrcmFixup)
-1.6.9 | [AppleALC.kext](https://github.com/acidanthera/AppleALC)
+1.7.0 | [AppleALC.kext](https://github.com/acidanthera/AppleALC)
 1.0.7 |[IntelMausi.kext](https://github.com/acidanthera/IntelMausi)
 1.6.0 | [Lilu.kext](https://github.com/acidanthera/Lilu)
 1.2.9 | [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC)
-1.5.7 | [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen)
+1.5.8 | [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen)
 
 ## Hardware
 
