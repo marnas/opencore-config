@@ -1027,8 +1027,6 @@
 				<string>ForceDisplayRotationInEFI</string>
 			</array>
 		</dict>
-		<key>LegacyEnable</key>
-		<false/>
 		<key>LegacyOverwrite</key>
 		<false/>
 		<key>LegacySchema</key>
@@ -1172,6 +1170,8 @@
 		<key>Drivers</key>
 		<array>
 			<dict>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>HfsPlus.efi</string>
 				<key>Comment</key>
@@ -1182,6 +1182,8 @@
 				<string></string>
 			</dict>
 			<dict>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>OpenRuntime.efi</string>
 				<key>Comment</key>
@@ -1192,6 +1194,8 @@
 				<string></string>
 			</dict>
 			<dict>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>OpenCanopy.efi</string>
 				<key>Comment</key>
