@@ -1,6 +1,6 @@
 # Opencore config
 Personal configuration files for [OpenCore](https://github.com/acidanthera/OpenCorePkg).
-Current release **0.8.3**
+Current release **0.8.4**
 
 ![About](./About.png)
 
@@ -9,7 +9,7 @@ Current release **0.8.3**
 Name | Version 
 ------------ | -------------
 [AirportBrcmFixup.kext](https://github.com/acidanthera/AirportBrcmFixup)|2.1.6
-[AppleALC.kext](https://github.com/acidanthera/AppleALC)                |1.7.4
+[AppleALC.kext](https://github.com/acidanthera/AppleALC)                |1.7.5
 [IntelMausi.kext](https://github.com/acidanthera/IntelMausi)             |1.0.7
 [Lilu.kext](https://github.com/acidanthera/Lilu)                        |1.6.2
 [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC)            |1.3.0
