@@ -781,23 +781,23 @@
 			<key>AdviseFeatures</key>
 			<true/>
 			<key>MLB</key>
-			<string>C027216094NJG36JA</string>
+			<string>F5K934403GUK3F71H</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>3841</integer>
 			<key>ROM</key>
-			<data>VdGFyaxV</data>
+			<data>rH8+YxkS</data>
 			<key>SpoofVendor</key>
 			<false/>
 			<key>SystemMemoryStatus</key>
 			<string>Upgradable</string>
 			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
+			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02TR0VKHX87</string>
+			<string>F5KZ84Y3P7QM</string>
 			<key>SystemUUID</key>
-			<string>FDA10DFC-6FC5-46CC-9B5A-B259B00649D3</string>
+			<string>676CAC8F-CAF3-4E1B-B155-9146A6E6C717</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
